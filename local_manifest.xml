@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-<remote  name="s"  fetch="https://github.com/GunaisHere" />
 <remote  name="syb" fetch="https://github.com/syberia-project" />
 <remote  name="Joker-V2" fetch="https://gitlab.com/Joker-V2" />
 <remote  name="gitlab"   fetch="https://gitlab.com" />
